@@ -1,2 +1,2 @@
 # Web-Code-Viewer
-![Alt text](relative/path/to/code_viewer.JPG?raw=true "Title")
+![Alt text](Web-Code_Viewer/code_viewer.JPG?raw=true "Title")
